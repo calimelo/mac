@@ -1,0 +1,16 @@
+{
+  "name": "base64",
+  "version": "1.0.0",
+  "description": "",
+  "main": "base64decode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bplist-parser": "^0.3.2",
+    "plist": "^3.0.6"
+  }
+}
